@@ -1,0 +1,17 @@
+obj/solver.o
+obj/solver.mod
+obj/mesh.o
+obj/melem.o
+obj/fem2d.o
+obj/energia.o
+obj/energia.mod
+obj/elemental.mod
+obj/domain.mod
+data/resml.dat
+data/res.dat
+data/nods.dat
+data/elmnts.dat
+data/bc.dat
+plot.m
+fem2d.ps1
+a.exe
